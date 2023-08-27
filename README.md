@@ -11,6 +11,6 @@
 
 IP-адрес 158.160.103.18
 
-Frontend https://api.woobotgjr.mesto.nomoredomainsicu.ru
+Frontend https://woobotgjr.mesto.nomoredomainsicu.ru
 
 Backend https://api.woobotgjr.mesto.nomoredomainsicu.ru
