@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес 158.160.103.18
+IP-адрес 158.160.35.223
 
 Frontend https://woobotgjr.mesto.nomoredomainsicu.ru
 
